@@ -1,7 +1,7 @@
 ## Class Exercise 1 (10 minutes in Breakout Rooms, 5 minutes to present)
-team 1: what is the difference between man, help, info
-team 2: print line number of a searched term
-team 3: count words, numbers, letters of a file
+* team 1: what is the difference between man, help, info
+* team 2: print line number of a searched term
+* team 3: count words, numbers, letters of a file
 
 
 ## Class Exercise 2 (15 minutes in Breakout Rooms)
